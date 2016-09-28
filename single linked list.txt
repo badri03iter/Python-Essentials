@@ -1,9 +1,0 @@
-2 pointers
-head
-tail
-
-pushfront - O(1)
-popfront  - O(1)
-Puch back  -O(1)
-popBack - O(n)
-
